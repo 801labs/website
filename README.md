@@ -3,6 +3,12 @@ Current hackerspace website
 
 Tools: HTML, CSS, JavaScript, [Bulma](https://bulma.io/) CSS framework, [Hugo](https://gohugo.io/) static site framework
 
+__Hire: Veronica Eulenberg__ (HappyViki) is actively looking for work in Salt Lake City, Utah.
+- Full stack developer, see: [veronicodes.com](https://veronicodes.com/)
+- Tools, software, and frameworks: CSS, HTML, JavaScript, jQuery, ReactJS, Node, NPM, Babel, Webpack, Axios, Express, WordPress, WooCommerce, All Import Pro, Avada WordPress theme, Beaver Builder, Bootstrap, Bulma, Hugo, PHP, GIT, GitHub, MySQL, PHPMyAdmin, GoDaddy, BlueHost, HostGator, Bash, Python, THE INTERNET (to look things up) and PHONE (to talk to people)
+
+Contact HappyViki through [801Labs Slack](https://801labs.slack.com/team/UPKSYNM6K) or [UtahJS Slack](https://utahjavascript.slack.com/team/UMGDK7RND) if you have any questions about 801 Labs site.
+
 # Guide
 
 [Hugo Docs](https://gohugo.io/documentation/) | [Bulma Docs](https://bulma.io/documentation/)
@@ -90,6 +96,3 @@ Example with meanings:
       url = "/get-involved/"
       weight = 600
 ```
-
-
-Contact HappyViki through [801Labs Slack](https://801labs.slack.com/) if you have any questions.
