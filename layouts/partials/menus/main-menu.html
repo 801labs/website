@@ -1,0 +1,21 @@
+{{ range .Site.Menus.main.ByWeight }}
+  {{ if .HasChildren }}
+    <div class="navbar-item has-dropdown is-hoverable">
+      <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
+      <div class="navbar-dropdown labs-mobile-dropdown">
+        {{ range .Children }}
+          <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
+        {{ end }}
+      </div>
+    </div>
+  {{ else }}
+    <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
+  {{ end }}
+{{ end }}
+
+<div class="navbar-item has-dropdown is-hoverable">
+  <a href="./contact" class="navbar-item">Be Social</a>
+  <div class="navbar-dropdown is-right labs-mobile-dropdown">
+    {{- partial "menus/socials-menu.html" . -}}
+  </div>
+</div>

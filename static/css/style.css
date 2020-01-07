@@ -1,0 +1,49 @@
+body{
+  font-family: 'Roboto Mono', monospace;
+  padding-top:90px;
+}
+.labs-navbar{
+  height: 90px;
+}
+.labs-hero-photo-background{
+  background: url("./../img/nesa-by-makers-IgUR1iX0mqM-unsplash-3000w.jpg") !important;
+  background-repeat: no-repeat !important;
+  background-size: 100vw !important;
+}
+.labs-overlay{
+  background: rgba(0, 0, 0, 0.7);
+  width: 100vw;
+}
+.labs-logo svg{
+  width: auto;
+}
+.labs-burger{
+  height:auto;
+}
+.icons a {
+  display: inline-block;
+}
+
+.labs-has-text-white .subtitle, .labs-has-text-white h1, .labs-has-text-white > h2, .labs-has-text-white h3, .labs-has-text-white h4, .labs-has-text-white h5, .labs-has-text-white h6{
+  color: #ffffff;
+}
+.labs-nav-logo svg{
+  max-height: 5rem;
+}
+.labs-arrow{
+  font-size: 3rem;
+}
+.labs-border{
+  border: 5px dotted #222;
+  border-radius: 25px;
+}
+
+.footer a + a:before {
+    content: " | ";
+}
+
+@media only screen and (max-width: 1024px){
+  .labs-mobile-dropdown .navbar-item{
+    display: inline-block;
+  }
+}
