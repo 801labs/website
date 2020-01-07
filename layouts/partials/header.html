@@ -1,0 +1,39 @@
+<body>
+  <nav class="navbar is-fixed-top labs-navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item labs-nav-logo" href="/">
+        {{- partial "logos/801Labs_black.svg" . -}}
+    </a>
+
+    <a role="button" class="navbar-burger burger labs-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+      {{- partial "menus/main-menu.html" . -}}
+    </div>
+
+    <div class="navbar-end">
+      <div class="navbar-item">
+        <div class="buttons">
+          <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BWV8WFGYAEECN&source=website" class="button is-dark">
+            <span class="icon">
+              <i class="fab fa-paypal"></i>
+            </span>
+            <span>Donate</span>
+          </a>
+          <a href="https://slack.801labs.org" class="button is-black is-outlined">
+            <span class="icon">
+              <i class="fab fa-slack"></i>
+            </span>
+            <span>Join Slack</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  </nav>

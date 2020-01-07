@@ -1,0 +1,62 @@
+{{ define "main" }}
+    <main aria-role="main">
+      <div class="homepage-content">
+
+        <section class="is-hidden-tablet">
+                  <div class="content has-text-centered">
+                    <!-- animate white svg <object class="labslogo" data="801Labs_black.svg" type="image/svg+xml"></object> -->
+                    <span class="labs-logo">
+                      {{- partial "logos/801Labs_black.svg" . -}}
+                    </span>
+                    <h2 class="subtitle">
+                      A Community Hackerspace for Information Technology, Electronics, and Information Security Enthusiasts
+                    </h2>
+                    <div class="buttons is-centered">
+                      <button class="button is-black is-outlined">Donate</button>
+                      <a href="get-involved.html" class="button is-black is-outlined"><span>Volunteer</span></a>
+                      <a href="https://slack.801labs.org" class="button is-black is-outlined"><span>Join Slack</span></a>
+                    </div>
+                  </div>
+        </section>
+
+        <section class="labs-hero-photo-background is-hidden-mobile">
+            <div class="labs-overlay has-text-white labs-has-text-white">
+        <div class="columns is-vcentered">
+          <div class="column has-text-right">
+            <!-- animate white svg <object class="labslogo" data="801Labs_black.svg" type="image/svg+xml"></object> -->
+            <span class="labs-logo">
+              {{- partial "logos/801Labs_white.svg" . -}}
+            </span>
+          </div>
+          <div class="column has-text-left">
+            <h2 class="subtitle">
+              A Community Hackerspace for Information Technology, Electronics, and Information Security Enthusiasts
+            </h2>
+
+            <div class="buttons">
+              <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BWV8WFGYAEECN&source=website" class="button is-white is-outlined">
+                <span>Donate</span>
+              </a>
+              <a href="/get-involved/" class="button is-white is-outlined">
+                <span>Volunteer</span>
+              </a>
+              <a href="https://slack.801labs.org" class="button is-white is-outlined">
+                <span>Join Slack</span>
+              </a>
+            </div>
+            
+            <div class="labs-scroll">
+              <span class="labs-arrow">&darr;</span>
+              scroll down a little more
+              <span class="labs-arrow">&darr;</span>
+            </div>
+          </div>
+        </div>
+        </div>
+        </section>
+
+        <!-- content/_index.html -->
+        {{.Content}}
+      </div>
+    </main>
+{{ end }}

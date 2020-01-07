@@ -1,0 +1,8 @@
+{{ range .Site.Menus.social.ByWeight }}
+  <a href="{{ .URL }}" class="navbar-item">
+    <span class="icon is-medium">
+      <i class="fas {{ .Pre }}"></i>
+    </span>
+    {{ .Name }}
+  </a>
+{{ end }}

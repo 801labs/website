@@ -1,0 +1,126 @@
+baseURL = ""
+languageCode = "en-us"
+title = "801 Labs"
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 100
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 200
+
+  [[menu.main]]
+    parent = "about"
+    name = "Events"
+    url = "/events/"
+    weight = 300
+
+  [[menu.main]]
+    parent = "about"
+    name = "Location and Hours"
+    url = "/location-and-hours/"
+    weight = 400
+
+  [[menu.main]]
+    parent = "about"
+    name = "Resources"
+    url = "/resources/"
+    weight = 500
+
+  [[menu.main]]
+    name = "Get Involved"
+    url = "/get-involved/"
+    weight = 600
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 700
+
+  [[menu.social]]
+    name = "Go there"
+    url = "https://g.page/801labs?share"
+    weight = 100
+    pre = "fa fa-location-arrow"
+
+  [[menu.social]]
+    name = "Email us"
+    url = "mailto:board@801labs.org"
+    weight = 200
+    pre = "fas fa-envelope"
+
+  [[menu.social]]
+    name = "Read our research"
+    url = "https://research.801labs.org/"
+    weight = 300
+    pre = "fas fa-flask"
+
+  [[menu.social]]
+    name = "Meet up"
+    url = "https://www.meetup.com/801labs/"
+    weight = 400
+    pre = "fab fa-meetup"
+
+  [[menu.social]]
+    name = "Slack chat"
+    url = "https://slack.801labs.org"
+    weight = 500
+    pre = "fab fa-slack"
+
+  [[menu.social]]
+    name = "IRC chat"
+    url = "https://freenode.net/kb/answer/registration"
+    weight = 600
+    pre = "fa fa-hashtag"
+
+  [[menu.social]]
+    name = "Commit"
+    url = "https://github.com/801labs/"
+    weight = 700
+    pre = "fab fa-github"
+
+  [[menu.social]]
+    name = "Watch classes"
+    url = "http://www.youtube.com/c/801LabsSaltLakeCity"
+    weight = 800
+    pre = "fab fa-youtube"
+
+  [[menu.social]]
+    name = "FaceBook"
+    url = "#"
+    weight = 900
+    pre = "fab fa-facebook"
+
+  [[menu.social]]
+    name = "Instagram"
+    url = "#"
+    weight = 1000
+    pre = "fab fa-instagram"
+
+  [[menu.social]]
+    name = "Twitter"
+    url = "https://twitter.com/801labs"
+    weight = 1100
+    pre = "fab fa-twitter"
+
+  [[menu.social]]
+    name = "Read our posts"
+    url = "/blog/"
+    weight = 1200
+    pre = "fas fa-book"
+
+  [[menu.footer]]
+    name = "Code Of Conduct"
+    url = "/code-of-conduct/"
+    weight = 100
+
+  [[menu.footer]]
+    name = "Terms"
+    url = "/terms/"
+    weight = 200
