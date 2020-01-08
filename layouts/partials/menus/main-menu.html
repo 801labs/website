@@ -16,6 +16,13 @@
 <div class="navbar-item has-dropdown is-hoverable">
   <a href="/contact" class="navbar-item">Be Social</a>
   <div class="navbar-dropdown is-right labs-mobile-dropdown">
-    {{- partial "menus/socials-menu.html" . -}}
+    {{ range .Site.Menus.social.ByWeight }}
+      <a href="{{ .URL }}" class="navbar-item">
+        <span class="icon is-medium">
+          {{ .Pre }}
+        </span>
+        {{ .Name }}
+      </a>
+    {{ end }}
   </div>
 </div>

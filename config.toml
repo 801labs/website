@@ -47,61 +47,61 @@ title = "801 Labs"
     name = "Go there"
     url = "https://g.page/801labs?share"
     weight = 100
-    pre = "fa fa-location-arrow"
+    pre = "<i class='fa fa-location-arrow'></i>"
 
   [[menu.social]]
     name = "Email us"
     url = "mailto:board@801labs.org"
     weight = 200
-    pre = "fas fa-envelope"
+    pre = "<i class='fas fa-envelope'></i>"
 
   [[menu.social]]
     name = "Read our research"
     url = "https://research.801labs.org/"
     weight = 300
-    pre = "fas fa-flask"
+    pre = "<i class='fas fa-flask'></i>"
 
   [[menu.social]]
     name = "Meet up"
     url = "https://www.meetup.com/801labs/"
     weight = 400
-    pre = "fab fa-meetup"
+    pre = "<i class='fab fa-meetup'></i>"
 
   [[menu.social]]
     name = "Slack chat"
     url = "https://slack.801labs.org"
     weight = 500
-    pre = "fab fa-slack"
+    pre = "<i class='fab fa-slack'></i>"
 
   [[menu.social]]
     name = "IRC chat"
     url = "irc://chat.freenode.net/#dc801"
     weight = 600
-    pre = "fa fa-hashtag"
+    pre = "<i class='fa fa-hashtag'></i>"
 
   [[menu.social]]
     name = "Commit"
     url = "https://github.com/801labs/"
     weight = 700
-    pre = "fab fa-github"
+    pre = "<i class='fab fa-github'></i>"
 
   [[menu.social]]
     name = "Watch classes"
     url = "http://www.youtube.com/c/801LabsSaltLakeCity"
     weight = 800
-    pre = "fab fa-youtube"
+    pre = "<i class='fab fa-youtube'></i>"
 
   [[menu.social]]
     name = "FaceBook"
     url = "https://fb.me/801labs"
     weight = 900
-    pre = "fab fa-facebook"
+    pre = "<i class='fab fa-facebook'></i>"
 
   [[menu.social]]
     name = "Twitter"
     url = "https://twitter.com/801labs"
     weight = 1100
-    pre = "fab fa-twitter"
+    pre = "<i class='fab fa-twitter'></i>"
 
   [[menu.footer]]
     name = "Code Of Conduct"
