@@ -45,7 +45,7 @@ title = "801 Labs"
 
   [[menu.social]]
     name = "Go there"
-    url = "https://g.page/801labs?share"
+    url = "/location-and-hours/"
     weight = 100
     pre = "<i class='fa fa-location-arrow'></i>"
 
