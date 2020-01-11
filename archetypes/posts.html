@@ -1,0 +1,19 @@
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: true
+---
+
+<section class="section has-text-centered">
+  <div class="container">
+    <h1 class="title">{{ replace .Name "-" " " | title }}</h1>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <h2>Content</h2>
+    </div>
+  </div>
+</section>
