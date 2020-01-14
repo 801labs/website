@@ -11,14 +11,17 @@ $(document).ready(function(){
            if (event.description.length > descriptionLength){
              event.description = event.description.match(/\<p\>(.+?)\<\/p\>/)[0].replace('</p>', ' [...]</p>')
            }
+            const options = { weekday: 'short', month: 'short', day: 'numeric', hour: 'numeric', minute: 'numeric', hour12: true };
+            let dateTime = new Date(`${event.local_date} ${event.local_time}`)
+            dateTimeString = dateTime.toLocaleDateString("en-US", options);
 
            return `<div class="block">
-            <p class="date-time">${event.local_date} ${event.local_time}</p>
+            <p class="date-time">${dateTimeString}</p>
             <h2 class="title">${event.name}</h2>
             <h3 class="subtitle location">At ${event.venue.name}</h3>
             <div class="content">
               ${event.description}
-              <p class="has-text-success">${event.yes_rsvp_count} people are going</p>
+              <p class="has-text-success">${event.yes_rsvp_count} people confirmed going, the rest are anonymous</p>
               <a href="${event.link}" class="button is-danger link">
               Attend</a>
             </div>
