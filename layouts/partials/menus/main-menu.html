@@ -14,10 +14,10 @@
 {{ end }}
 
 <div class="navbar-item has-dropdown is-hoverable">
-  <a href="/contact" class="navbar-item">Be Social</a>
+  <a href="/events" class="navbar-item">Be Social</a>
   <div class="navbar-dropdown is-right labs-mobile-dropdown">
     {{ range .Site.Menus.social.ByWeight }}
-      <a href="{{ .URL }}" class="navbar-item">
+      <a {{ printf "href=%q" .URL | safeHTMLAttr }} class="navbar-item">
         <span class="icon is-medium">
           {{ .Pre }}
         </span>
