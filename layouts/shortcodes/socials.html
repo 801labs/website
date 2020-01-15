@@ -1,5 +1,5 @@
 {{ range .Site.Menus.social.ByWeight }}
-  <a href="{{ .URL }}">
+  <a {{ printf "href=%q" .URL | safeHTMLAttr }}>
     <span class="icon is-medium">
       {{ .Pre }}
     </span>
