@@ -1,0 +1,17 @@
+{{ if eq .File.Ext "md" }}
+
+  <section class="section">
+    <div class="container">
+      <div class="content">
+
+        {{.Content}}
+
+      </div>
+    </div>
+  </section>
+
+{{ else }}
+
+  {{.Content}}
+
+{{ end }}
