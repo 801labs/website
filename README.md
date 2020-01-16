@@ -98,7 +98,7 @@ Example with meanings:
     weight = 300
 
   [[menu.main]] // Stand alone item with no parent
-      name = "Get Involved"
-      url = "/get-involved/"
+      name = "Volunteer"
+      url = "{{< ref "/volunteer" >}}"
       weight = 600
 ```

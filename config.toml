@@ -37,8 +37,8 @@ title = "801 Labs"
     weight = 500
 
   [[menu.main]]
-    name = "Get Involved"
-    url = "/get-involved/"
+    name = "Volunteer"
+    url = "/volunteer/"
     weight = 600
 
   [[menu.main]]
