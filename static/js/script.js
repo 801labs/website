@@ -22,4 +22,26 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  var scrollButtons = document.querySelectorAll(".scroll-btn");
+  scrollButtons.forEach((button) => {
+    let src = button.href.split("/#")[1];
+    let target = document.querySelector('#' + src);
+    button.addEventListener("click", (e) => {
+      e.preventDefault();
+
+      if (target.scrollIntoView) {
+        target.scrollIntoView(true);
+        // now account for fixed header
+        var scrolledY = window.scrollY;
+
+        if (scrolledY){
+          window.scroll({
+            top:scrolledY - 78,
+            behavior: "smooth"
+          });
+        }
+      }
+    })
+  });
+
 });
