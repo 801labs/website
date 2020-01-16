@@ -35,6 +35,12 @@ serve public
 ```
 Go to http://localhost:5000
 
+Manual testing on mobile:
+```
+hugo server --buildDrafts --watch --bind [computer ip] --baseURL http://[computer ip]
+```
+Go to http://[computer ip] on your phone!
+
 ## Page Structure
 
 Logos: `/website/layouts/partials/logos/`
@@ -92,7 +98,7 @@ Example with meanings:
     weight = 300
 
   [[menu.main]] // Stand alone item with no parent
-      name = "Get Involved" 
+      name = "Get Involved"
       url = "/get-involved/"
       weight = 600
 ```

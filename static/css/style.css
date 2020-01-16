@@ -2,6 +2,12 @@ body{
   font-family: 'Roboto Mono', monospace;
   padding-top:90px;
 }
+#content{
+  width: 100vw;
+}
+.google-maps iframe {
+    width: 100% !important;
+}
 .labs-navbar{
   height: 90px;
 }
