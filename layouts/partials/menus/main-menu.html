@@ -15,7 +15,7 @@
 
 <div class="navbar-item has-dropdown is-hoverable">
   <a href="/events" class="navbar-item">Be Social</a>
-  <div class="navbar-dropdown is-right labs-mobile-dropdown">
+  <div class="navbar-dropdown is-left labs-mobile-dropdown">
     {{ range .Site.Menus.social.ByWeight }}
       <a {{ printf "href=%q" .URL | safeHTMLAttr }} class="navbar-item">
         <span class="icon is-medium">
