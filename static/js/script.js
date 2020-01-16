@@ -28,8 +28,18 @@ document.addEventListener('DOMContentLoaded', () => {
     let target = document.querySelector('#' + src);
     button.addEventListener("click", (e) => {
       e.preventDefault();
+
       if (target.scrollIntoView) {
-        target.scrollIntoView({ behavior: 'smooth'});
+        target.scrollIntoView(true);
+        // now account for fixed header
+        var scrolledY = window.scrollY;
+
+        if (scrolledY){
+          window.scroll({
+            top:scrolledY - 78,
+            behavior: "smooth"
+          });
+        }
       }
     })
   });
