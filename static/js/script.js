@@ -22,4 +22,14 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  var scrollButtons = document.querySelectorAll(".scroll-btn");
+  scrollButtons.forEach((button) => {
+    let src = button.href.split("/#")[1];
+    let target = document.querySelector('#' + src);
+    button.addEventListener("click", (e) => {
+      e.preventDefault();
+      target.scrollIntoView({ behavior: 'smooth'});
+    })
+  });
+
 });

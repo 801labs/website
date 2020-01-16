@@ -24,14 +24,42 @@ body{
   display: inline-block;
 }
 
+.homepage.scroll-btn {
+  border: 2px solid #FFFFFF;
+  display:inline-block;
+  border-radius: 10px;
+  padding: 15px;
+  color:#FFFFFF;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.homepage.scroll-btn:hover {
+  border: 2px solid #FFFFFF;
+  background-color: #FFFFFF;
+  color: #000000;
+  border-radius: 10px;
+  padding: 15px;
+}
+
 .labs-has-text-white .subtitle, .labs-has-text-white h1, .labs-has-text-white > h2, .labs-has-text-white h3, .labs-has-text-white h4, .labs-has-text-white h5, .labs-has-text-white h6{
   color: #ffffff;
 }
 .labs-nav-logo svg{
   max-height: 5rem;
 }
-.labs-arrow{
-  font-size: 3rem;
+.labs-scroll {
+  position: relative;
+  display: inline-block;
+}
+.labs-arrow {
+  font-size: 2rem;
+  position: absolute;
+}
+.labs-arrow.left {
+  left:0;
+}
+.labs-arrow.right {
+  right:0;
 }
 .labs-border{
   border: 5px dotted #222;
