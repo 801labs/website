@@ -28,7 +28,9 @@ document.addEventListener('DOMContentLoaded', () => {
     let target = document.querySelector('#' + src);
     button.addEventListener("click", (e) => {
       e.preventDefault();
-      target.scrollIntoView({ behavior: 'smooth'});
+      if (target.scrollIntoView) {
+        target.scrollIntoView({ behavior: 'smooth'});
+      }
     })
   });
 
