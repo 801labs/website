@@ -3,8 +3,13 @@
     <div class="navbar-item has-dropdown is-hoverable">
       <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
       <div class="navbar-dropdown labs-mobile-dropdown">
-        {{ range .Children }}
-          <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
+        {{ range .Children.ByWeight }}
+          <a href="{{ .URL }}" class="navbar-item">
+		{{ if .Pre }}
+			<span class="icon is-medium">{{ .Pre }}</span>
+		{{ end }}
+		{{ .Name }}
+	  </a>
         {{ end }}
       </div>
     </div>
@@ -12,17 +17,3 @@
     <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
   {{ end }}
 {{ end }}
-
-<div class="navbar-item has-dropdown is-hoverable">
-  <a href="/events" class="navbar-item">Be Social</a>
-  <div class="navbar-dropdown is-left labs-mobile-dropdown">
-    {{ range .Site.Menus.social.ByWeight }}
-      <a {{ printf "href=%q" .URL | safeHTMLAttr }} class="navbar-item">
-        <span class="icon is-medium">
-          {{ .Pre }}
-        </span>
-        {{ .Name }}
-      </a>
-    {{ end }}
-  </div>
-</div>

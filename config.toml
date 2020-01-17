@@ -46,65 +46,86 @@ title = "801 Labs"
     url = "/contact/"
     weight = 700
 
-  [[menu.social]]
+  [[menu.main]]
+    identifier = "social"
+    name = "Be Social"
+    url = "/events/"
+    weight = 800 
+ 
+  [[menu.main]]
+    parent = "social"
     name = "Go there"
     url = "/location-and-hours/"
     weight = 100
     pre = "<i class='fa fa-location-arrow'></i>"
 
-  [[menu.social]]
+  [[menu.main]]
+    parent = "social"
     name = "Email us"
     url = "mailto:board@801labs.org"
     weight = 200
     pre = "<i class='fas fa-envelope'></i>"
 
-  [[menu.social]]
+  [[menu.main]]
+    parent = "social"
     name = "Read our research"
     url = "https://research.801labs.org/"
     weight = 300
     pre = "<i class='fas fa-flask'></i>"
 
-  [[menu.social]]
+  [[menu.main]]
+    parent = "social"
     name = "Meet up"
     url = "https://www.meetup.com/801labs/"
     weight = 400
     pre = "<i class='fab fa-meetup'></i>"
 
-  [[menu.social]]
+  [[menu.main]]
+    parent = "social"
     name = "Slack chat"
     url = "https://slack.801labs.org"
     weight = 500
     pre = "<i class='fab fa-slack'></i>"
 
-  [[menu.social]]
+  [[menu.main]]
+    parent = "social"
     name = "IRC chat"
     url = "irc://chat.freenode.net/#dc801"
     weight = 600
     pre = "<i class='fa fa-hashtag'></i>"
 
-  [[menu.social]]
+  [[menu.main]]
+    parent = "social"
     name = "Commit"
     url = "https://github.com/801labs/"
     weight = 700
     pre = "<i class='fab fa-github'></i>"
 
-  [[menu.social]]
+  [[menu.main]]
+    parent = "social"
     name = "Watch classes"
     url = "http://www.youtube.com/c/801LabsSaltLakeCity"
     weight = 800
     pre = "<i class='fab fa-youtube'></i>"
 
-  [[menu.social]]
+  [[menu.main]]
+    parent = "social"
     name = "FaceBook"
     url = "https://fb.me/801labs"
     weight = 900
     pre = "<i class='fab fa-facebook'></i>"
 
-  [[menu.social]]
+  [[menu.main]]
+    parent = "social"
     name = "Twitter"
     url = "https://twitter.com/801labs"
     weight = 1100
     pre = "<i class='fab fa-twitter'></i>"
+  
+  [[menu.main]]
+    name = "Old Site"
+    url = "https://old.801labs.org"
+    weight = 900 
 
   [[menu.footer]]
     name = "Code Of Conduct"
