@@ -4,7 +4,7 @@
       <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
       <div class="navbar-dropdown labs-mobile-dropdown">
         {{ range .Children.ByWeight }}
-          <a href="{{ .URL }}" class="navbar-item">
+	<a href="{{ .URL }}" class="navbar-item">
 		{{ if .Pre }}
 			<span class="icon is-medium">{{ .Pre }}</span>
 		{{ end }}

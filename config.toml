@@ -17,34 +17,35 @@ title = "801 Labs"
     name = "About"
     url = "/about/"
     weight = 200
+  
+  [[menu.main]]
+    parent = "about"
+    name = "Contact"
+    url = "/contact/"
+    weight = 100
 
   [[menu.main]]
     parent = "about"
     name = "Events"
     url = "/events/"
-    weight = 300
+    weight = 200
 
   [[menu.main]]
     parent = "about"
     name = "Location and Hours"
     url = "/location-and-hours/"
-    weight = 400
+    weight = 300
 
   [[menu.main]]
     parent = "about"
     name = "Resources"
     url = "/resources/"
-    weight = 500
+    weight = 400 
 
   [[menu.main]]
     name = "Volunteer"
     url = "/volunteer/"
     weight = 600
-
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 700
 
   [[menu.main]]
     identifier = "social"
@@ -123,10 +124,16 @@ title = "801 Labs"
     pre = "<i class='fab fa-twitter'></i>"
   
   [[menu.main]]
+    name = "Research"
+    url = "https://research.801labs.org"
+    weight = 800 
+
+  [[menu.main]]
     name = "Old Site"
     url = "https://old.801labs.org"
     weight = 900 
 
+  
   [[menu.footer]]
     name = "Code Of Conduct"
     url = "/code-of-conduct/"
