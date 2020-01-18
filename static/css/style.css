@@ -76,10 +76,6 @@ body{
     content: " | ";
 }
 
-.labs-mobile-head{
-  padding:32px;
-}
-
 @media only screen and (max-width: 1024px){
   .labs-mobile-dropdown .navbar-item{
     display: inline-block;
