@@ -2,23 +2,42 @@
     <main aria-role="main">
       <div class="homepage-content">
 
-        <section class="is-hidden-tablet">
+<!-- MOBILE -->
+        <section class="section is-hidden-tablet">
                   <div class="content has-text-centered">
-                    <!-- animate white svg <object class="labslogo" data="801Labs_black.svg" type="image/svg+xml"></object> -->
-                    <span class="labs-logo">
-                      {{- partial "logos/801Labs_black.svg" . -}}
-                    </span>
                     <h2 class="subtitle">
                       A Community Hackerspace for Information Technology, Electronics, and Information Security Enthusiasts
                     </h2>
                     <div class="buttons is-centered">
-                      <button class="button is-black is-outlined">Donate</button>
-                      <a href="/volunteer" class="button is-black is-outlined"><span>Volunteer</span></a>
-                      <a href="https://slack.801labs.org" class="button is-black is-outlined"><span>Join Slack</span></a>
+                      <a href="{{ .Site.Params.paypalLink }}" class="button is-dark">
+                        <span class="icon">
+                          <i class="fab fa-paypal"></i>
+                        </span>
+                        <span>Donate</span>
+                      </a>
+                      <a href="/volunteer/" class="button is-black is-outlined">
+                        <span class="icon">
+                          <i class="fas fa-hands"></i>
+                        </span>
+                        <span>Volunteer</span>
+                      </a>
+                      <a href="https://slack.801labs.org" class="button is-black is-outlined">
+                        <span class="icon">
+                          <i class="fab fa-slack"></i>
+                        </span>
+                        <span>Join Slack</span>
+                      </a>
+                      <a href="/location-and-hours/" class="button is-black is-outlined">
+                        <span class="icon">
+                          <i class="fa fa-location-arrow"></i>
+                        </span>
+                        <span>Visit us!</span>
+                      </a>
                     </div>
                   </div>
         </section>
 
+<!-- DESKTOP -->
         <section class="labs-hero-photo-background is-hidden-mobile">
             <div class="labs-overlay has-text-white labs-has-text-white">
         <div class="columns is-vcentered">
@@ -54,6 +73,7 @@
         </div>
         </div>
         </section>
+<!-- END DESKTOP -->
 
         <!-- content/_index.html -->
         {{- partial "content.html" . -}}
