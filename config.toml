@@ -76,8 +76,8 @@ title = "801 Labs"
 
   [[menu.main]]
     parent = "social"
-    name = "Meet up"
-    url = "https://www.meetup.com/801labs/"
+    name = "Meetup"
+    url = "/events/"
     weight = 400
     pre = "<i class='fab fa-meetup'></i>"
 
