@@ -1,10 +1,10 @@
 {{ range .Site.Menus.main.ByWeight }}
   {{ if .HasChildren }}
     <div class="navbar-item has-dropdown is-hoverable">
-      <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
+      <a {{ printf "href=%q" .URL | safeHTMLAttr }} class="navbar-item">{{ .Name }}</a>
       <div class="navbar-dropdown labs-mobile-dropdown">
         {{ range .Children.ByWeight }}
-	<a href="{{ .URL }}" class="navbar-item">
+	<a {{ printf "href=%q" .URL | safeHTMLAttr }} class="navbar-item">
 		{{ if .Pre }}
 			<span class="icon is-medium">{{ .Pre }}</span>
 		{{ end }}
