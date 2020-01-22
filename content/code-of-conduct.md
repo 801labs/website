@@ -4,7 +4,7 @@ date: 2019-12-17T16:34:31-07:00
 draft: false
 ---
 
-# 801 Labs Code of Conduct [ DRAFT ]
+# 801 Labs Code of Conduct [ DRAFT - not yet in effect ]
 
 This document details the policies and procedures of 801 Labs, approved by the Board of Directors on the recorded date. This version of the Policies replaces any previously-dated Policies.
 
@@ -13,7 +13,7 @@ Updates to these Policies can be made by majority vote of the Board at any Board
 ## Safety & Compliance
 **For any emergencies, always call 9-1-1**
 
-The Key Holding Volunteers shall ensure 801 Labs’s compliance with all fire codes, health codes, and relevant safety laws at all times.
+The Key Holding Volunteers shall ensure 801 Labs's compliance with all fire codes, health codes, and relevant safety laws at all times.
 
 It is the responsibility of all persons in the space to provide safe working conditions to every other person in the space at all times. Particularly, any two members can ask another person to stop doing something that makes them feel unsafe, regardless of what it is. Any conflicts that arise should be brought to the attention of a Key Holding Volunteer or Board member.
 
@@ -21,10 +21,10 @@ Each particular piece of equipment to be found in 801 Labs has its own safety pr
 
 Each person is responsible for any damage caused to the space or equipment, beyond normal wear and tear.
 
-801 Labs is not responsible for lost or stolen property of the Member or any guest.
+801 Labs is not responsible for lost or stolen property of the Patron or any guest.
 
 ## Key Holding Volunteers
-801 Labs’s board appoints – by majority vote – key holding volunteers who make the day-to-day decisions between board meetings. Each Key Holding Volunteer has primary authority over a specific domain, though Key Holding Volunteers occasionally share tasks between domains:
+801 Labs's board appoints – by majority vote – key holding volunteers who make the day-to-day decisions between board meetings. Each Key Holding Volunteer has primary authority over a specific domain, though Key Holding Volunteers occasionally share tasks between domains:
 
 **Volunteer Coordinator** – "Director of External Affairs"
 
@@ -46,17 +46,17 @@ Each person is responsible for any damage caused to the space or equipment, beyo
 It is not required to be a member of the Board to be a Key Holding Volunteer, though it is required that a Key Holding Volunteer be a Member in good standing. The Key Holding Volunteers may from time to time join the Board in Executive Session.
 
 ## Equipment Use Policy
-You must be a member in good standing to operate 801 Labs tools or equipment. Do not use tools for which you are not certified.
+You must be a Patron in good standing to operate 801 Labs tools or equipment. Do not use tools for which you are not certified.
 
 ## Privacy Policy
-In this Policy, “Personal Data” refers to information such as a member’s name, address, phone number, or other data that could be used to identify him or her. 801 Labs shall always take steps to reasonably secure Members’ Personal Data. A Member has the right, upon request, to review and update any Personal Data stored by 801 Labs.
+In this Policy, "Personal Data" refers to information such as name, address, phone number, or other data that could be used to identify him or her. 801 Labs shall always take steps to reasonably secure Patreons' Personal Data. A Patron has the right, upon request, to review and update any Personal Data stored by 801 Labs.
 
-801 Labs does not share Personal Data with third-party organizations for any marketing-related purpose. 801 Labs will only use members’ Personal Data as it relates to providing the benefits of membership, one example of which is entering the Member’s Name into the Landlord’s security system for the purpose of activating the member’s access card.
+801 Labs does not share Personal Data with third-party organizations for any marketing-related purpose. 801 Labs will only use members' Personal Data as it relates to providing the benefits of patronage, one example could be entering the Patron's Name into the Landlord's security system for the purpose of activating the Patron's access card.
 
 ## Behavior & Discipline Policy
 
 ### Conflict Resolution
-Given that we are not in a perfect world, conflict will occasionally occur. Any Key Holding Volunteer can be called upon to address a conflict between two or more members. The Key Holding Volunteer’s decision is binding until the next board meeting, at which point the stakeholders have the opportunity to appeal to the Board. If no appeal is made, the Key Holding Volunteer’s decision stands. Otherwise the majority vote of the Board regarding the appeal is binding.
+Given that we are not in a perfect world, conflict will occasionally occur. Any Key Holding Volunteer can be called upon to address a conflict between two or more members. The Key Holding Volunteer's decision is binding until the next board meeting, at which point the stakeholders have the opportunity to appeal to the Board. If no appeal is made, the Key Holding Volunteer's decision stands. Otherwise the majority vote of the Board regarding the appeal is binding.
 
 ### Disciplinary Process
 801 Labs reserves the right to terminate any patronage at any time for any reason, but we strive for the process to be as fair and open as privacy and discretion allow us to be. The disciplinary process against a Patron can involve one or more of the following steps:
@@ -71,15 +71,15 @@ Given that we are not in a perfect world, conflict will occasionally occur. Any 
 
 Minor conflicts would begin with a verbal warning and only proceed further as necessary. For offenses that affect the safety or security of the space, a Key Holding Volunteer has the ability to immediately suspend a membership, prohibiting the Member access to the space. This suspension is in effect until the next board meeting, at which time the suspension automatically ends unless the Board votes otherwise.
 
-Note that some offenses – including but not limited to non-payment of dues – can trigger automatic membership suspension or termination, without a formal review by the Board or any other steps listed above.
+Note that some offenses – including but not limited to non-payment of dues – can trigger automatic patronage suspension or termination, without a formal review by the Board or any other steps listed above.
 
 ## Children (<18 yrs old) and Animals
 Children and animals are welcome at 801 Labs, but must be accompanied by a guardian.  The guardian is responsible for:
 
-1. The child/animal’s actions and messes.
-2. The child/animal’s health.  It should go without saying, but please do not bring illness into a confined public place.
-3. The child/animal’s forced interactions with other 801 Labs Patrons who are not comfortable around children/animals.
-4. The child/animal’s dismissal from the hackerspace in the event of persistent problems.
+1. The child/animal's actions and messes.
+2. The child/animal's health.  It should go without saying, but please do not bring illness into a confined public place.
+3. The child/animal's forced interactions with other 801 Labs Patrons who are not comfortable around children/animals.
+4. The child/animal's dismissal from the hackerspace in the event of persistent problems.
 
 ## Our Standards
 Examples of behavior that contributes to creating a positive environment include:
@@ -104,14 +104,14 @@ Only authorized parties are allowed to sign for 801 Labs. In addition to the Cha
 * Signs contracts, leases, third-party agreements that bind 801 Labs
 * Signs for equipment checked in or out, such as for fairs/conventions
 * Signs for anything shipped to/from the space
-* Signs Membership Agreements
+* Signs Agreements
 
 ### Board Treasurer
 * Signs any checks, invoices, or payables
-* Signs Membership Agreements
+* Signs Agreements
 
 ### Board Member
-* Signs Membership Agreements
+* Signs Agreements
 
 ## Financial Policy
 
@@ -121,14 +121,14 @@ The Board, from time to time as necessary, shall work with the Treasurer to impl
 ### Reserve
 The Board has directed the Officers to set aside a Reserve of operating funds. The Treasurer shall provide periodic reports on the Reserve to the Board.
 
-## Member-Owned Equipment
-This section refers specifically to a piece of equipment – such as a laser cutter, 3D printer, leather-stitcher (i.e. something more than just tools) – that a member wishes to locate in the space and share with fellow members. The guidelines of this arrangement are below:
+## Organization-Owned Equipment
+This section refers specifically to a piece of equipment – such as a laser cutter, 3D printer, leather-stitcher (i.e. something more than just tools) – that a Patron wishes to locate in the space and share with the community. The guidelines of this arrangement are below:
 
 1. The agreement must be approved by the board in advance of its move to the space
 2. The equipment must be formally leased to 801 Labs
-3. The agreement must contain the owner’s guidelines for training and allowed the use of the equipment
-4. The agreement must contain a time period, or specify the terms of the equipment’s removal
-5. Anything left at the space for more than 24 hours without following this is considered an anonymous donation to the nonprofit.  At which point 801 labs property made dispose of it.
+3. The agreement must contain the owner's guidelines for training and allowed the use of the equipment
+4. The agreement must contain a time period, or specify the terms of the equipment's removal
+5. Anything left at the space for more than 24 hours without following this is considered an anonymous donation to the nonprofit.  At which point 801 Labs may dispose or use it.
 
 ## Non-Profit Status
 801 Labs does not exist to subsidize for-profit ventures. As an Organization organized for exclusively religious, charitable, educational and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, 801 Labs **prohibits** any for-profit business or operations at the hackerspace, as well as any political campaigning or related activities.
