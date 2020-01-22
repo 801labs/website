@@ -4,7 +4,7 @@ date: 2019-12-17T16:34:31-07:00
 draft: false
 ---
 
-# 801 Labs Code of Conduct
+# 801 Labs Code of Conduct [ DRAFT ]
 
 This document details the policies and procedures of 801 Labs, approved by the Board of Directors on the recorded date. This version of the Policies replaces any previously-dated Policies.
 
@@ -59,7 +59,7 @@ In this Policy, “Personal Data” refers to information such as a member’s n
 Given that we are not in a perfect world, conflict will occasionally occur. Any Key Holding Volunteer can be called upon to address a conflict between two or more members. The Key Holding Volunteer’s decision is binding until the next board meeting, at which point the stakeholders have the opportunity to appeal to the Board. If no appeal is made, the Key Holding Volunteer’s decision stands. Otherwise the majority vote of the Board regarding the appeal is binding.
 
 ### Disciplinary Process
-801 Labs reserves the right to terminate any membership at any time for any reason, but we strive for the process to be as fair and open as privacy and discretion allow us to be. The disciplinary process against a member can involve one or more of the following steps:
+801 Labs reserves the right to terminate any patronage at any time for any reason, but we strive for the process to be as fair and open as privacy and discretion allow us to be. The disciplinary process against a Patron can involve one or more of the following steps:
 
 1. The Patron will get a verbal warning from a Key Holding Volunteer or a Board member.
 2. The Patron will receive a formal Warning, via letter or email, signed by a Board member or Key Holding Volunteer.
