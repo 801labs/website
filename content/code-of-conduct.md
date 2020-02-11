@@ -42,7 +42,7 @@ Each person is responsible for any damage caused to the space or equipment, beyo
 
 * While safety is the responsibility of every volunteer, this role is the oversight of safety at the hackerspace
 * Ensures equipment and patrons operating said equipment are doing so in a safe and controlled manner
-* Resolve issues between patrons, up to and including violations of this Code of Conduct and enforcement of the diciplinary process.
+* Resolve issues between patrons, up to and including violations of this Code of Conduct and enforcement of the disciplinary process.
 
 It is not required to be a member of the Board to be a Key Holding Volunteer, though it is required that a Key Holding Volunteer be a Member in good standing. The Key Holding Volunteers may from time to time join the Board in Executive Session.
 
@@ -56,7 +56,7 @@ It is not required to be a member of the Board to be a Key Holding Volunteer, th
 * Visit potentially dangerous websites that can compromise our network and computers’ safety.
 * Perform unauthorized or illegal actions, like hacking, fraud or buying/selling illegal goods.
 
-Usage of a VPN (Virtual Private Network) service for data personal data security is encouraged.
+Usage of a VPN (Virtual Private Network) service for personal data security is encouraged.
 
 801Labs provides access to tools and resources located and owned by the hackerspace. You must be a Patron in good standing to operate 801 Labs tools or equipment, as well as trained and approved to operate each piece of equipment. Do not use tools for which you are not certified. If you wish to be educated and certified in the usage of the tools, please talk to a Keyholding volunteer, and they will point you in the right direction.
 
