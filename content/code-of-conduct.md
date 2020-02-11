@@ -4,7 +4,7 @@ date: 2019-12-17T16:34:31-07:00
 draft: false
 ---
 
-# 801 Labs Code of Conduct [ DRAFT - not yet in effect ]
+# 801 Labs Code of Conduct
 
 This document details the policies and procedures of 801 Labs, approved by the Board of Directors on the recorded date. This version of the Policies replaces any previously-dated Policies.
 
@@ -24,29 +24,41 @@ Each person is responsible for any damage caused to the space or equipment, beyo
 801 Labs is not responsible for lost or stolen property of the Patron or any guest.
 
 ## Key Holding Volunteers
-801 Labs's board appoints – by majority vote – key holding volunteers who make the day-to-day decisions between board meetings. Each Key Holding Volunteer has primary authority over a specific domain, though Key Holding Volunteers occasionally share tasks between domains:
+801 Labs's board appoints – by majority vote – key holding volunteers who make the day-to-day decisions between board meetings. All keyholding volunteers are expected to look out for the best interests of the hackerspace, including following and enforcement of this code of conduct. Each Key Holding Volunteer has primary authority over a specific domain, though Key Holding Volunteers occasionally share tasks between domains:
 
-**Volunteer Coordinator** – "Director of External Affairs"
+**Volunteer Coordinator** 
 
 * Coordinates all business-related activities of the space
 * Represents 801 Labs to external organizations
 * Submits budgets for approval and supervises spending
 * Works with the Board to draft policy, and oversee the implementation of approved policies
 
-**Operations Manager** – "Director of Internal Affairs"
+**Operations Manager** 
 
 * Directs the day-to-day operations of the space
 * Oversees tools and equipment, infrastructure, classes
 
-**Treasurer** – "Director of the Money"
-* Pays expenses
-* Manages the financial accounts of the space
-* Tracks and reports on donations and financial data
+**Safety Officer** 
+
+* While safety is the responsibility of every volunteer, this role is the oversight of safety at the hackerspace
+* Ensures equipment and patrons operating said equipment are doing so in a safe and controlled manner
+* Resolve issues between patrons, up to and including violations of this Code of Conduct and enforcement of the diciplinary process.
 
 It is not required to be a member of the Board to be a Key Holding Volunteer, though it is required that a Key Holding Volunteer be a Member in good standing. The Key Holding Volunteers may from time to time join the Board in Executive Session.
 
 ## Equipment Use Policy
-You must be a Patron in good standing to operate 801 Labs tools or equipment. Do not use tools for which you are not certified.
+801Labs provides free internet access on site for individuals who are present at the hackerspace. This internet connection is to be used in accordance with all local, state, and federal laws, and may not be used to conduct any of the following:
+
+* Download or upload obscene, offensive or illegal material.
+* Send confidential information to unauthorized recipients.
+* Invade another person’s privacy and gain access to sensitive information.
+* Download or upload pirated movies, music, material or software.
+* Visit potentially dangerous websites that can compromise our network and computers’ safety.
+* Perform unauthorized or illegal actions, like hacking, fraud or buying/selling illegal goods.
+
+Usage of a VPN (Virtual Private Network) service for data personal data security is encouraged.
+
+801Labs provides access to tools and resources located and owned by the hackerspace. You must be a Patron in good standing to operate 801 Labs tools or equipment, as well as trained and approved to operate each piece of equipment. Do not use tools for which you are not certified. If you wish to be educated and certified in the usage of the tools, please talk to a Keyholding volunteer, and they will point you in the right direction.
 
 ## Privacy Policy
 In this Policy, "Personal Data" refers to information such as name, address, phone number, or other data that could be used to identify him or her. 801 Labs shall always take steps to reasonably secure Patreons' Personal Data. A Patron has the right, upon request, to review and update any Personal Data stored by 801 Labs.
