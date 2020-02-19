@@ -17,7 +17,7 @@ Updates to these Policies can be made by majority vote of the Board at any Board
 
 The Key Holding Officers shall ensure 801 Labs's compliance with all fire codes, health codes, and relevant safety laws at all times.
 
-It is the responsibility of all persons in the space to provide safe working conditions to every other person in the space at all times. Particularly, any two members can ask another person to stop doing something that makes them feel unsafe, regardless of what it is. Any conflicts that arise should be brought to the attention of a Key Holding Officer or Board mber.
+It is the responsibility of all persons in the space to provide safe working conditions to every other person in the space at all times. Particularly, any two members can ask another person to stop doing something that makes them feel unsafe, regardless of what it is. Any conflicts that arise should be brought to the attention of a Key Holding Officer or Board member.
 
 Each particular piece of equipment to be found in 801 Labs has its own safety procedures that are required to know before using the equipment. No individual is allowed to use any equipment for which he/she is not trained and approved to operate.
 
