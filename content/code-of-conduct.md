@@ -4,9 +4,11 @@ date: 2019-12-17T16:34:31-07:00
 draft: false
 ---
 
-# 801 Labs Code of Conduct  [ DRAFT - not yet in effect ]
+# 801 Labs Code of Conduct 
 
 This document details the policies and procedures of 801 Labs, approved by the Board of Directors on the recorded date. This version of the Policies replaces any previously-dated Policies.
+
+This Code of Conduct was approved by the 801 Labs Board on Sunday, February 15th, 2020
 
 Updates to these Policies can be made by majority vote of the Board at any Board meeting.
 
