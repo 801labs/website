@@ -5,6 +5,6 @@ draft: false
 ---
 
 # Completed
-Thank you so much for your donation, it will keep us alive!
+Thank you so much for your charitable donation to 801 Labs! We appreciate your support ❤️
 
-801Labs is a [pending] 501(c)(3) non-profit corporation which means that **once we complete the non-profit process**, if you itemize your taxes, you just need our **EIN / Tax Number 46-4280893** to write off the amount.
+801Labs is a 501(c)(3) charitable non-profit organization. This means that all donations made ***after March 23rd, 2020*** may be itemized and deducted from your taxes as a ***charitable donation***. If wish to write your donation off, you will need our **EIN / Tax Number - `46-4280893`**.
