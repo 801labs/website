@@ -24,7 +24,7 @@ Some of the resources that have been made immediately available to us are
 * Access to grant and donation platforms
 * The ability for you to be able to write off your donations!
 
-Lets talk about donations! Any donation made to 801 Labs after March 23th, 2020 may be itemized and deducted from your taxable income at the end of the year! To do so, you will need the 801 Labs EIN, which is <**EIN**>. Some companies have philanthropy programs where they will match donations made by employees, so be sure to check and see.
+Lets talk about donations! Any donation made to 801 Labs after March 23th, 2020 may be itemized and deducted from your taxable income at the end of the year! To do so, you will need the 801 Labs EIN, which is 46-4280893. Some companies have philanthropy programs where they will match donations made by employees, so be sure to check and see.
 
 We are so excited to be moving forward and upwards. We also cannot wait to be able to see everyones faces again, and we will have a separate announcement regarding how and when the hackerspace will be re-opened very soon. If you have questions, comments, concerns, or are interested in engaging more with this community but are unsure how, please reach out to board@801labs.org
 
