@@ -5,9 +5,9 @@ draft: false
 ---
 
 # Nonprofit status
-We are incredibly excited to announce that we have been granted the status of 501c3 Charitable Nonprofit Organization! This is wonderful news! We set out to become a nonprofit to truly be able to support and help grow our community with the additional resources and help and connections that comes with that. We are finally in a position to better do so.
+We are incredibly excited to announce that we have been granted the status of 501c3 Charitable Nonprofit Organization! This is wonderful news! We set out to become a nonprofit to truly be able to support and help grow our community with the additional resources and help and connections that comes with non-profit status. We are finally in a position to better do so.
 
-Becoming a non-profit only the first step of many more. Our mission statement has always been to support and engage our local cybersecurity community, focussing on education and shared knowledge. Nothing about that has changed, only a renewed drive to do so and new resources to make that happen. Our plan going forward to achieve that, is to increase the educational content and value that 801 Labs provides to this community.
+Becoming a non-profit is only the first step of many more. Our mission statement has always been to support and engage our local cybersecurity community, focusing on education and shared knowledge. Nothing about our mission has changed, only a renewed drive to do so and new resources to make that happen. Our plan going forward to achieve that is to increase the educational content and value that 801 Labs provides to this community.
 
 We want to focus on three main areas with this. 
 * Classes - more classes and educational content for people to participate and learn.
@@ -28,4 +28,4 @@ Lets talk about donations! Any donation made to 801 Labs after March 23th, 2020 
 
 We are so excited to be moving forward and upwards. We also cannot wait to be able to see everyones faces again, and we will have a separate announcement regarding how and when the hackerspace will be re-opened very soon. If you have questions, comments, concerns, or are interested in engaging more with this community but are unsure how, please reach out to board@801labs.org
 
-Thanks ya’ll, happy hacking <3
+Thanks y'all, happy hacking <3
