@@ -10,19 +10,19 @@ We are incredibly excited to announce that we have been granted the status of 50
 Becoming a non-profit only the first step of many more. Our mission statement has always been to support and engage our local cybersecurity community, focussing on education and shared knowledge. Nothing about that has changed, only a renewed drive to do so and new resources to make that happen. Our plan going forward to achieve that, is to increase the educational content and value that 801 Labs provides to this community.
 
 We want to focus on three main areas with this. 
-Classes - more classes and educational content for people to participate and learn.
-Available resources - increasing and enriching the resources that the hackerspace can provide to the community. CTFs, lab infrastructure, tools and machines, software
-Sustained community engagement - beyond just having more classes, we want to see more re-occuring content that engages with our broader community. Study groups,<insert topic> nights, events that follow an available curriculum and structure, etc ﻿ 
+* Classes - more classes and educational content for people to participate and learn.
+* Available resources - increasing and enriching the resources that the hackerspace can provide to the community. CTFs, lab infrastructure, tools and machines, software
+* Sustained community engagement - beyond just having more classes, we want to see more re-occuring content that engages with our broader community. Study groups,<insert topic> nights, events that follow an available curriculum and structure, etc
 
 We are still very much in the process of exploring just what and how many resources are now available to us as a non-profit. Grants, sponsorships, charity events, software and tools, other organizations in this space, etc. are all being considered, and we would love to hear your feedback about how we should proceed or ideas that can further these goals.
 
 Some of the resources that have been made immediately available to us are
-Slack Standard plan
-GSuite for non-profits
-Techsoup (techsoup.org)
-Reduced merchant fees through Paypal
-Access to grant and donation platforms
-The ability for you to be able to write off your donations!
+* Slack Standard plan
+* GSuite for non-profits
+* Techsoup (techsoup.org)
+* Reduced merchant fees through Paypal
+* Access to grant and donation platforms
+* The ability for you to be able to write off your donations!
 
 Lets talk about donations! Any donation made to 801 Labs after March 23th, 2020 may be itemized and deducted from your taxable income at the end of the year! To do so, you will need the 801 Labs EIN, which is <**EIN**>. Some companies have philanthropy programs where they will match donations made by employees, so be sure to check and see.
 
