@@ -1,3 +1,10 @@
+---
+title: "801 Labs is a nonprofit!"
+date: 2020-05-05T17:53:37-07:00
+draft: false
+---
+
+# Nonprofit status
 We are incredibly excited to announce that we have been granted the status of 501c3 Charitable Nonprofit Organization! This is wonderful news! We set out to become a nonprofit to truly be able to support and help grow our community with the additional resources and help and connections that comes with that. We are finally in a position to better do so.
 
 Becoming a non-profit only the first step of many more. Our mission statement has always been to support and engage our local cybersecurity community, focussing on education and shared knowledge. Nothing about that has changed, only a renewed drive to do so and new resources to make that happen. Our plan going forward to achieve that, is to increase the educational content and value that 801 Labs provides to this community.
