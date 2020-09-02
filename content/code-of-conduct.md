@@ -162,4 +162,6 @@ This section refers specifically to a piece of equipment – such as a laser cut
 5. Anything left at the space for more than 24 hours without following this is considered an anonymous donation to the nonprofit.  At which point 801 Labs may dispose or use it.
 
 ## Non-Profit Status
-801 Labs does not exist to subsidize for-profit ventures. As an Organization organized for exclusively religious, charitable, educational and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, 801 Labs **prohibits** any for-profit business or operations at the hackerspace, as well as any political campaigning or related activities.
+801 Labs does not exist to subsidize for-profit ventures. As an Organization organized for exclusively religious, charitable, educational and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, 801 Labs **prohibits** any for-profit business or operations at the hackerspace, as well as any political campaigning or related activities. 
+
+## MARV WASN'T HERE
