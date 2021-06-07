@@ -90,6 +90,13 @@ title = "801 Labs"
 
   [[menu.main]]
     parent = "social"
+    name = "Discord chat"
+    url = "https://discord.gg/uSQdUPt"
+    weight = 500
+    pre = "<i class='fab fa-discord'></i>"
+
+  [[menu.main]]
+    parent = "social"
     name = "IRC chat"
     url = "ircs://irc.libera.chat:6697/#dc801"
     weight = 600
