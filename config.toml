@@ -91,7 +91,7 @@ title = "801 Labs"
   [[menu.main]]
     parent = "social"
     name = "IRC chat"
-    url = "ircs://chat.freenode.net:6697/#dc801"
+    url = "ircs://irc.libera.chat:6697/#dc801"
     weight = 600
     pre = "<i class='fa fa-hashtag'></i>"
 
