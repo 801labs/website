@@ -26,11 +26,11 @@
             </span>
             <span>Donate</span>
           </a>-->
-          <a href="https://slack.801labs.org" class="button is-black is-outlined">
+          <a href="{{ .Site.Params.chatLink }}" class="button is-black is-outlined">
             <span class="icon">
-              <i class="fab fa-slack"></i>
+              <i class="fab {{ .Site.Params.chatIcon }}"></i>
             </span>
-            <span>Join Slack</span>
+            <span>Join {{ .Site.Params.chatName }}</span>
           </a>
           <a href="/location-and-hours/" class="button is-black is-outlined">
             <span>Visit us!</span>
