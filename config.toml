@@ -4,6 +4,9 @@ title = "801 Labs"
 
 [params]
   paypalLink = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BWV8WFGYAEECN&source=website"
+  chatLink = "https://discord.gg/uSQdUPt"
+  chatIcon = "fa-discord"
+  chatName = "Discord"
 
 [menu]
 
