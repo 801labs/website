@@ -17,7 +17,6 @@ We want to focus on three main areas with this:
 We are still very much in the process of exploring just what and how many resources are now available to us as a non-profit. Grants, sponsorships, charity events, software and tools, other organizations in this space, etc. are all being considered, and we would love to hear your feedback about how we should proceed or ideas that can further these goals.
 
 Some of the resources that have been made immediately available to us are:
-* Slack Standard plan
 * GSuite for non-profits
 * Techsoup (techsoup.org)
 * Reduced merchant fees through Paypal
