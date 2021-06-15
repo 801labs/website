@@ -7,7 +7,7 @@ __Hire: Veronica Eulenberg__ (HappyViki) is actively looking for work in Salt La
 - Full stack developer, see: [veronicodes.com](https://veronicodes.com/)
 - Tools, software, and frameworks: CSS, HTML, JavaScript, jQuery, ReactJS, Node, NPM, Babel, Webpack, Axios, Express, WordPress, WooCommerce, All Import Pro, Avada WordPress theme, Beaver Builder, Bootstrap, Bulma, Hugo, PHP, GIT, GitHub, MySQL, PHPMyAdmin, GoDaddy, BlueHost, HostGator, Bash, Python, THE INTERNET (to look things up) and PHONE (to talk to people)
 
-Contact HappyViki through [801Labs Slack](https://slack.801labs.org) or [UtahJS Slack](https://utahjavascript.slack.com/team/UMGDK7RND) if you have any questions about 801 Labs site.
+Contact HappyViki through [801Labs Discord](https://discord.com/invite/uSQdUPt) or [UtahJS Slack](https://utahjavascript.slack.com/team/UMGDK7RND) if you have any questions about 801 Labs site.
 
 # Guide
 

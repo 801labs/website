@@ -86,13 +86,6 @@ title = "801 Labs"
 
   [[menu.main]]
     parent = "social"
-    name = "Slack chat"
-    url = "https://slack.801labs.org"
-    weight = 500
-    pre = "<i class='fab fa-slack'></i>"
-
-  [[menu.main]]
-    parent = "social"
     name = "Discord chat"
     url = "https://discord.gg/uSQdUPt"
     weight = 500
